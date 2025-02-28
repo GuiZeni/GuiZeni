@@ -44,5 +44,5 @@
 
 ### 🎥 Favorite Coding Music
 <p align="center">
-  <img src="https://img.youtube.com/vi/CÓDIGO_DO_VIDEO/maxresdefault.jpg" width="60%" alt="Coding Music"/>
+![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
 </p>
