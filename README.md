@@ -1,10 +1,9 @@
 <h1 align="center">Olá, Eu sou Guilherme Zeni 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. 
-  Atualmente trabalho com Go e estudo Java paralelamente. 
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
-  Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+ Desenvolvedor com experiência em aplicações Mobile e Web, organização de projetos e criação de soluções estratégicas e inovadoras. Minha comunicação eficaz e pensamento analítico facilitam o trabalho em equipe,
+                                              garantindo alinhamento entre as necessidades dos clientes e as soluções tecnológicas entregues.
+
 </p>
 
 ---
