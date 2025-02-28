@@ -3,12 +3,11 @@
 <p align="center">
  Desenvolvedor com experiência em aplicações Mobile e Web, organização de projetos e criação de soluções estratégicas e inovadoras. Minha comunicação eficaz e pensamento analítico facilitam o trabalho em equipe,
                                               garantindo alinhamento entre as necessidades dos clientes e as soluções tecnológicas entregues.
-
 </p>
 
 ---
 
-### Connect with me!
+### Connect with me! O nome do meu usuário é Guizeni 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario/)
@@ -48,4 +47,3 @@
 [![Spotify](https://i.scdn.co/image/ab67616d00001e02c4e70682feff98c3c5c759aa)](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
 
 [Ouça no Spotify](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
-
