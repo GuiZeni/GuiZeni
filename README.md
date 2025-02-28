@@ -43,6 +43,9 @@
 ---
 
 ### 🎥 Favorite Coding Music
-<p align="center">
-![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
-</p>
+### 🎶 Estou ouvindo...
+
+[![Spotify](https://i.scdn.co/image/ab67616d00001e02c4e70682feff98c3c5c759aa)](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
+
+[Ouça no Spotify](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
+
