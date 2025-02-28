@@ -41,6 +41,12 @@
 
 ---
 
+<div align="center">
+  <img height="200" src="https://imgflip.com/i/9lust2"  />
+</div>
+
+###
+
 ### 🎥 Favorite Coding Music
 ### 🎶 Estou ouvindo...
 
