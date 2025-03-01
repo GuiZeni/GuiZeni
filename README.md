@@ -1,53 +1,56 @@
-<h1 align="center">Olá, Eu sou Guilherme Zeni 👋</h1>
-
-<p align="center">
- Desenvolvedor com experiência em aplicações Mobile e Web, organização de projetos e criação de soluções estratégicas e inovadoras. Minha comunicação eficaz e pensamento analítico facilitam o trabalho em equipe,
-                                              garantindo alinhamento entre as necessidades dos clientes e as soluções tecnológicas entregues.
-</p>
-
----
-
-### Connect with me! O nome do meu usuário é Guizeni 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario/)
-
----
-
-### My Stack ~
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiZeni&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?GuiZeni&layout=compact&theme=radical" alt="Most Used Languages"/>
-</p>
-
----
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?dracoalv&theme=github" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-<a href="https://imgflip.com/i/9lust2"><img src="https://i.imgflip.com/9lust2.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<h1 align="center">Olá, eu sou o Guilherme</h1>
 
 ###
 
-### 🎥 Favorite Coding Music
-### 🎶 Estou ouvindo...
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-[![Spotify](https://i.scdn.co/image/ab67616d00001e02c4e70682feff98c3c5c759aa)](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
+###
 
-[Ouça no Spotify](https://open.spotify.com/intl-pt/album/4dimPGtC8aTFM0jCf739TN)
+<p align="left">Sou Guilherme Zeni, sou  um desenvolvedor front-end! 🚀 Estou cursando Análise e Desenvolvimento de Sistemas e Inglês, com foco em front-end e aprendizado contínuo em TypeScript, React e Node.js.</p>
+
+###
+
+<h3 align="left">🛠Minhas Linguagem</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="left">Redes Sociais</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilhermezeni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gui_zeni_?igsh=MWhmM3JqaGp1NGZ6aw==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://imgflip.com/gif/9lynhn"  />
+</div>
+
+###
