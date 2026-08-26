@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Guilherme%20Zeni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%7C%20Next%2FReact%20%7C%20Java%20%7C%20DevOps%20AWS&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://cdwtech.com.br/wp-content/uploads/2026/08/ChatGPT-Image-25-de-ago.-de-2026-21_09_01.png" height="90" alt="logo" />
+<br />
 
 <a href="https://www.linkedin.com/in/guilhermezeni/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
