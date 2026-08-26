@@ -3,7 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Guilherme%20Zeni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%7C%20Next%2FReact%20%7C%20Java%20%7C%20DevOps%20AWS&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://cdwtech.com.br/wp-content/uploads/2026/08/ChatGPT-Image-25-de-ago.-de-2026-21_09_01.png" height="90" alt="logo" />
-<br />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=B388FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;PHP+%7C+Next.js+%7C+React+%7C+Java;DevOps+%7C+AWS+%7C+PostgreSQL;Sempre+aprendendo+algo+novo+%E2%9A%A1" alt="Typing SVG" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/guilhermezeni/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,6 +18,10 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=guilhermezeni&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -35,17 +44,17 @@ const guilherme = {
 };
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 ## 🛠️ Stack & Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,nextjs,react,java,ts,js,nodejs,postgres,mysql,aws,html,css,git,github,vscode,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=php,nextjs,react,java,ts,js,nodejs,postgres,mysql,aws,html,css,git,github,vscode,figma&perline=6&theme=dark" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -64,7 +73,7 @@ const guilherme = {
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 ## 🏆 Troféus
 
@@ -74,19 +83,9 @@ const guilherme = {
 
 </div>
 
-<br/>
+> 💡 **Nota:** a cobrinha (snake) lá no topo e o grafo de atividade são gerados automaticamente via GitHub Actions — vivos de verdade, comendo seus commits reais. Se ainda não tiver o workflow ativo no seu perfil, me chama que eu monto o `.yml` pra você.
 
-## 🐍 Contribuições (Snake Game)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-> 💡 **Nota:** o gráfico da snake e o grafo de atividade acima são gerados automaticamente via GitHub Actions. Se ainda não tiver o workflow configurado no seu perfil, posso te ajudar a montar o `.yml` para ativar isso — me chama que a gente configura junto.
-
-<br/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 ## 🌐 Conecte-se comigo
 
