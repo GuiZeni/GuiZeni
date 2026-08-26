@@ -1,23 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Guilherme%20Zeni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%7C%20Next%2FReact%20%7C%20Java%20%7C%20DevOps%20AWS&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1f0a,100:001a00&height=220&section=header&text=GUILHERME.ZENI&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=%3E%20FULL_STACK_DEVELOPER.exe&descAlignY=58&descSize=18&descColor=00FF41" width="100%"/>
 
 <img src="https://cdwtech.com.br/wp-content/uploads/2026/08/ChatGPT-Image-25-de-ago.-de-2026-21_09_01.png" height="90" alt="logo" />
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=%3E+system.boot%28%29...;%3E+loading_stack%3A+PHP%2C+React%2C+Java...;%3E+status%3A+ONLINE+%E2%9C%93;%3E+ready_to_deploy+%F0%9F%A4%96" alt="Typing SVG" />
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=B388FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;PHP+%7C+Next.js+%7C+React+%7C+Java;DevOps+%7C+AWS+%7C+PostgreSQL;Sempre+aprendendo+algo+novo+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/WFZjBhOyC3ZMU/giphy.gif" width="180"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/guilhermezeni/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 <a href="https://www.instagram.com/gui_zeni_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=000000" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=guilhermezeni&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=guilhermezeni&style=for-the-badge&color=00FF41&label=VISITORS+DETECTED" />
 
 <br/><br/>
 
@@ -25,28 +29,28 @@
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-## 👩‍💻 Sobre mim
+## 🤖 root@guilherme:~$ whoami
 
-```typescript
-const guilherme = {
-  nome: "Guilherme Zeni",
-  cargo: "Full Stack Developer 🚀",
-  formacao: "Análise e Desenvolvimento de Sistemas",
-  idiomas: ["Português 🇧🇷", "Inglês 🇺🇸 (em progresso)"],
-  stack: ["PHP", "Next.js", "React", "Java", "Node.js", "TypeScript"],
-  banco: ["PostgreSQL", "phpMyAdmin / MySQL"],
-  devops: ["AWS", "Administração de Servidores", "CI/CD"],
-  filosofia: "Aprendizado contínuo, código limpo e interfaces incríveis."
-};
+```bash
+> INITIALIZING PROFILE...
+
+nome........: Guilherme Zeni
+cargo.......: Full Stack Developer [ONLINE]
+formacao....: Analise e Desenvolvimento de Sistemas
+idiomas.....: [PT-BR: fluente] [EN-US: em_treinamento...]
+core_stack..: PHP, Next.js, React, Java, Node.js, TypeScript
+database....: PostgreSQL, MySQL/phpMyAdmin
+infra.......: AWS, Servidores Linux, CI/CD, DevOps
+missao......: "Transformar café em código funcional." ☕⚡
+
+> STATUS: READY_TO_CODE ✔
 ```
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-## 🛠️ Stack & Ferramentas
+## ⚙️ Stack & Ferramentas
 
 <div align="center">
 
@@ -56,20 +60,20 @@ const guilherme = {
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-## 📊 GitHub Stats
+## 📡 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermezeni&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=b388ff&icon_color=b388ff&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezeni&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=b388ff&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermezeni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezeni&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermezeni&theme=radical&hide_border=true&background=0d1117&stroke=b388ff&ring=b388ff&fire=ff6b6b" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermezeni&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermezeni&theme=react-dark&hide_border=true&bg_color=0d1117&color=b388ff&line=ff6b6b&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermezeni&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=39FF14&point=ffffff" width="95%"/>
 
 </div>
 
@@ -79,11 +83,11 @@ const guilherme = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guilhermezeni&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=guilhermezeni&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
-> 💡 **Nota:** a cobrinha (snake) lá no topo e o grafo de atividade são gerados automaticamente via GitHub Actions — vivos de verdade, comendo seus commits reais. Se ainda não tiver o workflow ativo no seu perfil, me chama que eu monto o `.yml` pra você.
+> 💡 **Nota:** a cobrinha (snake) no topo e os gráficos acima são atualizados automaticamente via GitHub Actions com base nos seus commits reais. Se ainda não tiver o workflow ativo no seu perfil, me chama que eu monto o `.yml` pra você.
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
@@ -92,14 +96,14 @@ const guilherme = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/guilhermezeni/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LINKEDIN-00FF41?style=for-the-badge&logo=Linkedin&logoColor=000000" />
 </a>
 <a href="https://www.instagram.com/gui_zeni_?igsh=MWhmM3JqaGp1NGZ6aw==" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-INSTAGRAM-00FF41?style=for-the-badge&logo=Instagram&logoColor=000000" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0a1f0a,100:000000&height=120&section=footer" width="100%"/>
