@@ -12,6 +12,10 @@
 
 <img src="https://media.giphy.com/media/WFZjBhOyC3ZMU/giphy.gif" width="180"/>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/robot.gif" width="400"/>
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/guilhermezeni/">
@@ -33,20 +37,10 @@
 
 ## 🤖 root@guilherme:~$ whoami
 
-```bash
-> INITIALIZING PROFILE...
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=400&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=180&lines=%3E+nome...........%3A+Guilherme+Zeni;%3E+cargo..........%3A+Full+Stack+Developer+%5BONLINE%5D;%3E+formacao.......%3A+Analise+e+Desenvolvimento+de+Sistemas;%3E+idiomas........%3A+PT-BR+%5Bfluente%5D+%7C+EN-US+%5Bem_treinamento%5D;%3E+core_stack.....%3A+PHP%2C+Next.js%2C+React%2C+Java%2C+Node.js%2C+TS;%3E+database.......%3A+PostgreSQL%2C+MySQL%2FphpMyAdmin;%3E+infra..........%3A+AWS%2C+Linux%2C+CI%2FCD%2C+DevOps;%3E+missao.........%3A+Transformar+cafe+em+codigo+%E2%98%95%E2%9A%A1;%3E+STATUS.........%3A+READY_TO_CODE+%E2%9C%94" alt="Terminal Typing" />
+</div>
 
-nome........: Guilherme Zeni
-cargo.......: Full Stack Developer [ONLINE]
-formacao....: Analise e Desenvolvimento de Sistemas
-idiomas.....: [PT-BR: fluente] [EN-US: em_treinamento...]
-core_stack..: PHP, Next.js, React, Java, Node.js, TypeScript
-database....: PostgreSQL, MySQL/phpMyAdmin
-infra.......: AWS, Servidores Linux, CI/CD, DevOps
-missao......: "Transformar café em código funcional." ☕⚡
-
-> STATUS: READY_TO_CODE ✔
-```
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
@@ -63,6 +57,10 @@ missao......: "Transformar café em código funcional." ☕⚡
 ## 📡 GitHub Stats
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/blue-lightning-avatar.gif" width="100"/>
+
+<br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermezeni&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezeni&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14" />
