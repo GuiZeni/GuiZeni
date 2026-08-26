@@ -54,6 +54,18 @@
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=guilhermezeni&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+> 💡 **Nota:** a cobrinha (snake) no topo e os gráficos abaixo são atualizados automaticamente via GitHub Actions com base nos seus commits reais. Se ainda não tiver o workflow ativo no seu perfil, me chama que eu monto o `.yml` pra você.
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
 ## 📡 GitHub Stats
 
 <div align="center">
@@ -74,18 +86,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermezeni&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=39FF14&point=ffffff" width="95%"/>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guilhermezeni&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-> 💡 **Nota:** a cobrinha (snake) no topo e os gráficos acima são atualizados automaticamente via GitHub Actions com base nos seus commits reais. Se ainda não tiver o workflow ativo no seu perfil, me chama que eu monto o `.yml` pra você.
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
