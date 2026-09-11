@@ -1,67 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1f0a,100:001a00&height=220&section=header&text=GUILHERME.ZENI&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=%3E%20FULL_STACK_DEVELOPER.exe&descAlignY=58&descSize=18&descColor=00FF41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050806,55:07150b,100:050806&height=210&section=header&text=GUILHERME.ZENI&fontSize=48&fontColor=00F05A&fontAlignY=40&desc=%3E%20FULL-STACK%20DEVELOPER&descAlignY=64&descSize=18&descColor=C9D1D9" width="100%" alt="Guilherme Zeni — Full-Stack Developer" />
 
-<img src="https://cdwtech.com.br/wp-content/uploads/2026/08/ChatGPT-Image-25-de-ago.-de-2026-21_09_01.png" height="90" alt="logo" />
+<br />
 
-<br/><br/>
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <h3><code>&gt; Building reliable web experiences.</code></h3>
+      <p>
+        Desenvolvedor Full Stack focado em criar aplicações eficientes,<br />
+        interfaces intuitivas e soluções que resolvem problemas reais.
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://cdwtech.com.br/wp-content/uploads/2026/08/ChatGPT-Image-25-de-ago.-de-2026-21_09_01.png" height="76" alt="CDW Tech" />
+      <br />
+      <sub><code>WORKING AT CDW TECH</code></sub>
+    </td>
+  </tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=%3E+system.boot%28%29...;%3E+loading_stack%3A+PHP%2C+React%2C+Java...;%3E+status%3A+ONLINE+%E2%9C%93;%3E+ready_to_deploy+%F0%9F%A4%96" alt="Typing SVG" />
+</div>
 
-<br/>
+## `> terminal`
 
-<img src="https://media.giphy.com/media/WFZjBhOyC3ZMU/giphy.gif" width="180"/>
+```bash
+$ whoami
+guilherme.zeni
 
-<br/>
+$ focus
+support • infrastructure • web
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/robot.gif" width="400"/>
+$ status
+code → deploy → improve → repeat
+```
 
-<br/><br/>
+## `> tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,php,laravel,nodejs,linux,nextjs,java,postgres,mysql,aws,git&perline=6&theme=dark" alt="React, TypeScript, PHP, Laravel, Node.js, Linux, Next.js, Java, PostgreSQL, MySQL, AWS e Git" />
+
+<br /><br />
 
 <a href="https://www.linkedin.com/in/guilhermezeni/">
-  <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LINKEDIN-00F05A?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/gui_zeni_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=000000" />
+<a href="https://www.instagram.com/gui_zeni_/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-00F05A?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram" />
+</a>
+<a href="https://github.com/GuiZeni">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-00F05A?style=for-the-badge&logo=github&logoColor=0D1117" alt="Portfólio no GitHub" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=guilhermezeni&style=for-the-badge&color=00FF41&label=VISITORS+DETECTED" />
+<br /><br />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=GuiZeni&style=flat-square&color=00F05A&label=VISITORS+DETECTED" alt="Contador de visitantes" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-## 🤖 root@guilherme:~$ whoami
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=400&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=180&lines=%3E+nome...........%3A+Guilherme+Zeni;%3E+cargo..........%3A+Full+Stack+Developer+%5BONLINE%5D;%3E+formacao.......%3A+Analise+e+Desenvolvimento+de+Sistemas;%3E+idiomas........%3A+PT-BR+%5Bfluente%5D+%7C+EN-US+%5Bem_treinamento%5D;%3E+core_stack.....%3A+PHP%2C+Next.js%2C+React%2C+Java%2C+Node.js%2C+TS;%3E+database.......%3A+PostgreSQL%2C+MySQL%2FphpMyAdmin;%3E+infra..........%3A+AWS%2C+Linux%2C+CI%2FCD%2C+DevOps;%3E+missao.........%3A+Transformar+cafe+em+codigo+%E2%98%95%E2%9A%A1;%3E+STATUS.........%3A+READY_TO_CODE+%E2%9C%94" alt="Terminal Typing" />
-</div>
-
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-## ⚙️ Stack & Ferramentas
+## `> github_activity`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,nextjs,react,java,ts,js,nodejs,postgres,mysql,aws,html,css,git,github,vscode,figma&perline=6&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiZeni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F05A&icon_color=00F05A&text_color=C9D1D9&ring_color=00F05A" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiZeni&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F05A&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiZeni/GuiZeni/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiZeni/GuiZeni/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/GuiZeni/GuiZeni/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub" />
+</picture>
+
+<br />
+
+<sub><code>CODE • DEPLOY • IMPROVE • REPEAT</code></sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guilhermezeni&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
-> 💡 **Nota:** a cobrinha (snake) no topo e os gráficos abaixo são atualizados automaticamente via GitHub Actions com base nos seus commits reais. Se ainda não tiver o workflow ativo no seu perfil, me chama que eu monto o `.yml` pra você.
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050806,50:00F05A,100:050806&height=3&section=footer" width="100%" alt="" />
