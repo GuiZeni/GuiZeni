@@ -1,0 +1,6 @@
+<svg width="280" height="96" viewBox="0 0 280 96" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="278" height="94" rx="12" fill="#0B1117" stroke="#24533B" stroke-width="2"/>
+<ellipse cx="51" cy="48" rx="31" ry="20" fill="#00F05A"/>
+<text x="31" y="56" fill="#07110B" font-size="21" font-style="italic" font-weight="800" font-family="Arial,sans-serif">php</text>
+<text x="97" y="56" fill="#F0F6FC" font-size="20" font-weight="600" font-family="Inter,Arial,sans-serif">PHP</text>
+</svg>

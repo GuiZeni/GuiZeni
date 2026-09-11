@@ -1,0 +1,6 @@
+<svg width="280" height="96" viewBox="0 0 280 96" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="278" height="94" rx="12" fill="#0B1117" stroke="#24533B" stroke-width="2"/>
+<path d="m51 20 25 14v28L51 76 26 62V34Z" fill="none" stroke="#00F05A" stroke-width="3"/>
+<text x="37" y="57" fill="#00F05A" font-size="22" font-weight="800" font-family="Arial,sans-serif">JS</text>
+<text x="94" y="56" fill="#F0F6FC" font-size="20" font-weight="600" font-family="Inter,Arial,sans-serif">Node.js</text>
+</svg>

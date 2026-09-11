@@ -1,0 +1,5 @@
+<svg width="280" height="96" viewBox="0 0 280 96" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="278" height="94" rx="12" fill="#0B1117" stroke="#24533B" stroke-width="2"/>
+<g transform="translate(48 48)" fill="none" stroke="#00F05A" stroke-width="3"><ellipse rx="25" ry="9"/><ellipse rx="25" ry="9" transform="rotate(60)"/><ellipse rx="25" ry="9" transform="rotate(120)"/><circle r="4" fill="#00F05A" stroke="none"/></g>
+<text x="91" y="56" fill="#F0F6FC" font-size="20" font-weight="600" font-family="Inter,Arial,sans-serif">React</text>
+</svg>
