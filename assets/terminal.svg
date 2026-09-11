@@ -1,0 +1,41 @@
+<svg width="1100" height="260" viewBox="0 0 1100 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1100" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1117"/>
+      <stop offset="1" stop-color="#080D12"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1098" height="258" rx="12" fill="url(#panel)" stroke="#303A44" stroke-width="2"/>
+  <path d="M1 47H1099" stroke="#303A44" stroke-width="2"/>
+
+  <circle cx="27" cy="24" r="6" fill="#00F05A" filter="url(#glow)"/>
+  <circle cx="47" cy="24" r="6" fill="#64707C"/>
+  <circle cx="67" cy="24" r="6" fill="#64707C"/>
+  <text x="105" y="30" class="mono" fill="#7D8994" font-size="15">terminal</text>
+  <text x="1068" y="30" text-anchor="end" class="mono" fill="#7D8994" font-size="15">~/guilherme.zeni</text>
+
+  <text x="28" y="87" class="mono" fill="#00F05A" font-size="20" font-weight="700">$</text>
+  <text x="62" y="87" class="mono" fill="#F0F6FC" font-size="20" font-weight="700">whoami</text>
+  <text x="62" y="116" class="mono" fill="#00F05A" font-size="20" font-weight="700">guilherme.zeni</text>
+
+  <text x="28" y="163" class="mono" fill="#00F05A" font-size="20" font-weight="700">$</text>
+  <text x="62" y="163" class="mono" fill="#F0F6FC" font-size="20" font-weight="700">focus</text>
+  <text x="62" y="194" class="mono" fill="#00F05A" font-size="20" font-weight="700">support • infrastructure • web</text>
+  <rect class="cursor" x="28" y="216" width="3" height="20" fill="#7D8994"/>
+
+  <path d="M930 91H916V199H930M916 145H908" stroke="#64707C" stroke-width="1.5"/>
+  <text x="950" y="112" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">CODE</text>
+  <text x="950" y="139" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">DEPLOY</text>
+  <text x="950" y="166" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">IMPROVE</text>
+  <text x="950" y="193" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">REPEAT</text>
+</svg>
