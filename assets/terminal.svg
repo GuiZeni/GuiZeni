@@ -1,41 +1,26 @@
-<svg width="1100" height="260" viewBox="0 0 1100 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1100" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1117"/>
-      <stop offset="1" stop-color="#080D12"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <style>
-      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-      .cursor { animation: blink 1s steps(2, start) infinite; }
-      @keyframes blink { 50% { opacity: 0; } }
-    </style>
-  </defs>
-
-  <rect x="1" y="1" width="1098" height="258" rx="12" fill="url(#panel)" stroke="#303A44" stroke-width="2"/>
-  <path d="M1 47H1099" stroke="#303A44" stroke-width="2"/>
-
-  <circle cx="27" cy="24" r="6" fill="#00F05A" filter="url(#glow)"/>
-  <circle cx="47" cy="24" r="6" fill="#64707C"/>
-  <circle cx="67" cy="24" r="6" fill="#64707C"/>
-  <text x="105" y="30" class="mono" fill="#7D8994" font-size="15">terminal</text>
-  <text x="1068" y="30" text-anchor="end" class="mono" fill="#7D8994" font-size="15">~/guilherme.zeni</text>
-
-  <text x="28" y="87" class="mono" fill="#00F05A" font-size="20" font-weight="700">$</text>
-  <text x="62" y="87" class="mono" fill="#F0F6FC" font-size="20" font-weight="700">whoami</text>
-  <text x="62" y="116" class="mono" fill="#00F05A" font-size="20" font-weight="700">guilherme.zeni</text>
-
-  <text x="28" y="163" class="mono" fill="#00F05A" font-size="20" font-weight="700">$</text>
-  <text x="62" y="163" class="mono" fill="#F0F6FC" font-size="20" font-weight="700">focus</text>
-  <text x="62" y="194" class="mono" fill="#00F05A" font-size="20" font-weight="700">support • infrastructure • web</text>
-  <rect class="cursor" x="28" y="216" width="3" height="20" fill="#7D8994"/>
-
-  <path d="M930 91H916V199H930M916 145H908" stroke="#64707C" stroke-width="1.5"/>
-  <text x="950" y="112" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">CODE</text>
-  <text x="950" y="139" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">DEPLOY</text>
-  <text x="950" y="166" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">IMPROVE</text>
-  <text x="950" y="193" class="mono" fill="#7D8994" font-size="16" letter-spacing="1.5">REPEAT</text>
+<svg width="1100" height="500" viewBox="0 0 1100 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal de Guilherme Zeni">
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#00F05A" opacity=".025"/></pattern>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace;font-size:18px;white-space:pre}
+.b{font-weight:700}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<clipPath id="c0"><rect x="58" y="74" height="30" width="0"><animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" begin="0.80s" dur="0.39s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="58" y="146" height="30" width="0"><animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6" keyTimes="0.0000;0.0769;0.1538;0.2308;0.3077;0.3846;0.4615;0.5385;0.6154;0.6923;0.7692;0.8462;0.9231" calcMode="discrete" begin="2.04s" dur="0.78s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="58" y="218" height="30" width="0"><animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0" keyTimes="0.0000;0.0909;0.1818;0.2727;0.3636;0.4545;0.5455;0.6364;0.7273;0.8182;0.9091" calcMode="discrete" begin="3.67s" dur="0.65s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="58" y="290" height="30" width="0"><animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167" calcMode="discrete" begin="5.17s" dur="0.72s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="58" y="362" height="30" width="0"><animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;194.4;205.2" keyTimes="0.0000;0.0500;0.1000;0.1500;0.2000;0.2500;0.3000;0.3500;0.4000;0.4500;0.5000;0.5500;0.6000;0.6500;0.7000;0.7500;0.8000;0.8500;0.9000;0.9500" calcMode="discrete" begin="6.74s" dur="1.24s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="1098" height="498" rx="12" fill="#000000" stroke="#1E2B23" stroke-width="2"/>
+<rect x="1" y="1" width="1098" height="498" rx="12" fill="url(#scan)"/>
+<path d="M1 46H1099" stroke="#1E2B23" stroke-width="2"/>
+<circle cx="28" cy="24" r="6" fill="#FF5F56"/><circle cx="48" cy="24" r="6" fill="#FFBD2E"/><circle cx="68" cy="24" r="6" fill="#00F05A" filter="url(#glow)"/>
+<text x="550.0" y="30" text-anchor="middle" class="m" style="font-size:15px" fill="#8B949E">guilherme@zeni: ~ — zsh</text>
+<text x="1072" y="30" text-anchor="end" class="m" style="font-size:13px" fill="#4A535C">● live</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.80s" fill="freeze"/><text x="32" y="96" class="m b" fill="#00F05A">$</text></g><text x="58" y="96" class="m b" fill="#F0F6FC" clip-path="url(#c0)">whoami</text><rect x="60" y="80" width="10" height="20" fill="#00F05A" opacity="0"><set attributeName="opacity" to="1" begin="0.80s"/><animate attributeName="x" values="60.0;70.8;81.6;92.4;103.2;114.0;124.8" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571" calcMode="discrete" begin="0.80s" dur="0.39s" fill="freeze"/><set attributeName="opacity" to="0" begin="1.49s" fill="freeze"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="1.49s" fill="freeze"/><text x="58" y="126" class="m"><tspan fill="#00F05A">guilherme.zeni</tspan></text></g><g opacity="0"><set attributeName="opacity" to="1" begin="2.04s" fill="freeze"/><text x="32" y="168" class="m b" fill="#00F05A">$</text></g><text x="58" y="168" class="m b" fill="#F0F6FC" clip-path="url(#c1)">cat role.txt</text><rect x="60" y="152" width="10" height="20" fill="#00F05A" opacity="0"><set attributeName="opacity" to="1" begin="2.04s"/><animate attributeName="x" values="60.0;70.8;81.6;92.4;103.2;114.0;124.8;135.6;146.4;157.2;168.0;178.8;189.6" keyTimes="0.0000;0.0769;0.1538;0.2308;0.3077;0.3846;0.4615;0.5385;0.6154;0.6923;0.7692;0.8462;0.9231" calcMode="discrete" begin="2.04s" dur="0.78s" fill="freeze"/><set attributeName="opacity" to="0" begin="3.12s" fill="freeze"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="3.12s" fill="freeze"/><text x="58" y="198" class="m"><tspan fill="#F0F6FC">Full-Stack Developer </tspan><tspan fill="#00F05A">@ CDW Tech</tspan></text></g><g opacity="0"><set attributeName="opacity" to="1" begin="3.67s" fill="freeze"/><text x="32" y="240" class="m b" fill="#00F05A">$</text></g><text x="58" y="240" class="m b" fill="#F0F6FC" clip-path="url(#c2)">ls ~/stack</text><rect x="60" y="224" width="10" height="20" fill="#00F05A" opacity="0"><set attributeName="opacity" to="1" begin="3.67s"/><animate attributeName="x" values="60.0;70.8;81.6;92.4;103.2;114.0;124.8;135.6;146.4;157.2;168.0" keyTimes="0.0000;0.0909;0.1818;0.2727;0.3636;0.4545;0.5455;0.6364;0.7273;0.8182;0.9091" calcMode="discrete" begin="3.67s" dur="0.65s" fill="freeze"/><set attributeName="opacity" to="0" begin="4.62s" fill="freeze"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="4.62s" fill="freeze"/><text x="58" y="270" class="m"><tspan fill="#79C0FF">react  typescript  php  laravel  node.js  linux</tspan></text></g><g opacity="0"><set attributeName="opacity" to="1" begin="5.17s" fill="freeze"/><text x="32" y="312" class="m b" fill="#00F05A">$</text></g><text x="58" y="312" class="m b" fill="#F0F6FC" clip-path="url(#c3)">echo $FOCUS</text><rect x="60" y="296" width="10" height="20" fill="#00F05A" opacity="0"><set attributeName="opacity" to="1" begin="5.17s"/><animate attributeName="x" values="60.0;70.8;81.6;92.4;103.2;114.0;124.8;135.6;146.4;157.2;168.0;178.8" keyTimes="0.0000;0.0833;0.1667;0.2500;0.3333;0.4167;0.5000;0.5833;0.6667;0.7500;0.8333;0.9167" calcMode="discrete" begin="5.17s" dur="0.72s" fill="freeze"/><set attributeName="opacity" to="0" begin="6.18s" fill="freeze"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="6.19s" fill="freeze"/><text x="58" y="342" class="m"><tspan fill="#F0F6FC">support • infrastructure • web</tspan></text></g><g opacity="0"><set attributeName="opacity" to="1" begin="6.74s" fill="freeze"/><text x="32" y="384" class="m b" fill="#00F05A">$</text></g><text x="58" y="384" class="m b" fill="#F0F6FC" clip-path="url(#c4)">./ship.sh --forever</text><rect x="60" y="368" width="10" height="20" fill="#00F05A" opacity="0"><set attributeName="opacity" to="1" begin="6.74s"/><animate attributeName="x" values="60.0;70.8;81.6;92.4;103.2;114.0;124.8;135.6;146.4;157.2;168.0;178.8;189.6;200.4;211.2;222.0;232.8;243.6;254.4;265.2" keyTimes="0.0000;0.0500;0.1000;0.1500;0.2000;0.2500;0.3000;0.3500;0.4000;0.4500;0.5000;0.5500;0.6000;0.6500;0.7000;0.7500;0.8000;0.8500;0.9000;0.9500" calcMode="discrete" begin="6.74s" dur="1.24s" fill="freeze"/><set attributeName="opacity" to="0" begin="8.27s" fill="freeze"/></rect><g opacity="0"><set attributeName="opacity" to="1" begin="8.27s" fill="freeze"/><text x="58" y="414" class="m"><tspan fill="#8B949E">code → deploy → improve → repeat </tspan><tspan fill="#00F05A">✔ done</tspan></text></g><g opacity="0"><set attributeName="opacity" to="1" begin="8.82s" fill="freeze"/><text x="32" y="456" class="m b" fill="#00F05A">$</text><rect class="blink" x="60" y="440" width="10" height="20" fill="#00F05A" filter="url(#glow)"/></g>
+<path d="M700 76V460" stroke="#1E2B23" stroke-width="2"/>
+<text x="730" y="96" class="m b" fill="#00F05A">guilherme<tspan fill="#F0F6FC">@</tspan>zeni</text><text x="730" y="118" class="m" fill="#4A535C">──────────────────────</text><g opacity="0"><set attributeName="opacity" to="1" begin="1.69s" fill="freeze"/><text x="730" y="154" class="m" style="font-size:16px"><tspan fill="#00F05A" class="b">role</tspan><tspan fill="#4A535C">:</tspan></text><text x="838" y="154" class="m" style="font-size:16px" fill="#F0F6FC">Full-Stack Developer</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="1.81s" fill="freeze"/><text x="730" y="186" class="m" style="font-size:16px"><tspan fill="#00F05A" class="b">company</tspan><tspan fill="#4A535C">:</tspan></text><text x="838" y="186" class="m" style="font-size:16px" fill="#F0F6FC">CDW Tech</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="1.93s" fill="freeze"/><text x="730" y="218" class="m" style="font-size:16px"><tspan fill="#00F05A" class="b">front</tspan><tspan fill="#4A535C">:</tspan></text><text x="838" y="218" class="m" style="font-size:16px" fill="#F0F6FC">React · TypeScript</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="2.05s" fill="freeze"/><text x="730" y="250" class="m" style="font-size:16px"><tspan fill="#00F05A" class="b">back</tspan><tspan fill="#4A535C">:</tspan></text><text x="838" y="250" class="m" style="font-size:16px" fill="#F0F6FC">PHP · Laravel · Node.js</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="2.17s" fill="freeze"/><text x="730" y="282" class="m" style="font-size:16px"><tspan fill="#00F05A" class="b">os</tspan><tspan fill="#4A535C">:</tspan></text><text x="838" y="282" class="m" style="font-size:16px" fill="#F0F6FC">Linux</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="2.29s" fill="freeze"/><text x="730" y="314" class="m" style="font-size:16px"><tspan fill="#00F05A" class="b">focus</tspan><tspan fill="#4A535C">:</tspan></text><text x="838" y="314" class="m" style="font-size:16px" fill="#F0F6FC">support · infra · web</text></g><g opacity="0"><set attributeName="opacity" to="1" begin="2.51s" fill="freeze"/><rect x="730" y="356" width="30" height="16" rx="2" fill="#0D1117"/><rect x="764" y="356" width="30" height="16" rx="2" fill="#FF5F56"/><rect x="798" y="356" width="30" height="16" rx="2" fill="#00F05A"/><rect x="832" y="356" width="30" height="16" rx="2" fill="#FFBD2E"/><rect x="866" y="356" width="30" height="16" rx="2" fill="#79C0FF"/><rect x="900" y="356" width="30" height="16" rx="2" fill="#D2A8FF"/><rect x="934" y="356" width="30" height="16" rx="2" fill="#39C5CF"/><rect x="968" y="356" width="30" height="16" rx="2" fill="#F0F6FC"/></g>
 </svg>

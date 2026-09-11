@@ -49,11 +49,6 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiZeni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F05A&icon_color=00F05A&text_color=C9D1D9&ring_color=00F05A" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiZeni&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F05A&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
-
-  <br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiZeni/GuiZeni/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiZeni/GuiZeni/output/github-contribution-grid-snake.svg" />
